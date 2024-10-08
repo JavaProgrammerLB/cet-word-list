@@ -1,5 +1,6 @@
 # cet-word-list
 英语6级(CET-6)，英语4级（CET-4）单词列表
+标签：英语六级、英语四级、CET6、CET4
 
 ## 使用说明
 - 词表保存在根目录的[word-list.txt](https://github.com/JavaProgrammerLB/cet-word-list/blob/master/word-list.txt)中
