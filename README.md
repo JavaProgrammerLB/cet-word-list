@@ -2,7 +2,7 @@
 英语6级(CET-6)，英语4级（CET-4）单词列表
 
 ## 使用说明
-- 词表保存在word-list.txt中
+- 词表保存在根目录的[word-list.txt](https://github.com/JavaProgrammerLB/cet-word-list/blob/master/word-list.txt)中
 - 需要英语6级(CET-6)，英语4级（CET-4）词表请直接从word.txt文件获取
 
 ## 词表的来源
