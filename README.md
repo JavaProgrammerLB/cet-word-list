@@ -1,5 +1,5 @@
 # cet-word-list
-英语6级(CET-6)，英语4级（CET-4）词表
+英语6级(CET-6)，英语4级（CET-4）单词列表
 
 ## 使用说明
 - 词表保存在word-list.txt中
