@@ -3524,7 +3524,6 @@ partnership party
 pass passage passenger passerby passion
 passionate passive
 passport password past pasta paste 
-
 pastime
 pastry pasture pat patch patent path pathetic patient
 patience patient2
@@ -3546,7 +3545,6 @@ peddle pedestrian peel peep peer peg pen penalty
 penalize/-ise pencil
 pending pendulum penetrate
 penetration 
-
 penguin
 peninsula
 penny
@@ -3621,9 +3619,6 @@ phenomenon
 philosophy
 philosophical
 philosopher
-
-
-
 photo(graph)
 photographic
 photographer
@@ -3648,7 +3643,6 @@ planner plane
 planet
 planetary plant
 plantation 
-
 plastic
 plate
 plateau
@@ -3709,9 +3703,6 @@ polytechnic
 pond
 ponder
 pool
-
-
-
 poor
 poverty pop
 popular
@@ -3747,9 +3738,6 @@ preacher precaution
 precautionary precede
 preceding
 precedent precious
-
-
-
 precise
 precision
 precisely
@@ -3827,9 +3815,6 @@ priest
 primary
 primarily
 prime
-
-
-
 primitive
 prince/princess principal
 principle print
@@ -3875,7 +3860,6 @@ promotion prompt
 prone pronoun pronounce
 pronunciation proof
 proofread prop 
-
 propaganda propagate
 propagation propel
 propeller proper
@@ -3915,9 +3899,6 @@ purity
 purify purple
 purpose
 purposeful purse
-
-
-
 pursue
 pursuit
 push
@@ -3982,9 +3963,6 @@ railway/railroad
 rain
 rainy
 rainbow
-
-
-
 raincoat
 raise rally ranch random range rank rap rape rapid
 rapidity rare
@@ -4017,7 +3995,6 @@ receiver recent
 recently reception
 receptionist recession
 recipe 
-
 reciprocal
 recite
 recitation reckless
@@ -4064,7 +4041,6 @@ regularity regulate
 regulation
 regulatory
 regulator 
-
 rehabilitate
 rehabilitation
 rehearse
@@ -4141,9 +4117,6 @@ repertoire
 replace
 replacement
 reply
-
-
-
 report
 reporter
 represent
@@ -4226,9 +4199,6 @@ retention
 retaliate
 retaliation
 retarded
-
-
-
 retell
 retelling retire
 retirement
@@ -4266,7 +4236,6 @@ ripe
 ripen rise
 risk
 risky 
-
 ritual
 rival
 rivalry
@@ -4325,9 +4294,6 @@ running
 runway
 rural
 rush
-
-
-
 rust
 rusty
 ruthless
@@ -4389,9 +4355,6 @@ saying
 scale
 scan
 scanner
-
-
-
 scandal
 scandalous scar
 scarce
@@ -4420,8 +4383,6 @@ second' second2 secondary second-hand secret
 secrecy
 secretive secretary
 secretarial section
-
-
 sector
 secular
 secure
@@ -4490,9 +4451,6 @@ settlement
 seven
 seventeen
 seventy
-
-
-
 several
 severe
 severity
@@ -4550,9 +4508,6 @@ short
 shortage
 shorts
 shortcoming
-
-
-
 shorthand
 shortly
 shot
@@ -4612,9 +4567,6 @@ sincere
 sincerity
 sing
 singer
-
-
-
 single
 singular
 singularity sinister
@@ -4638,9 +4590,6 @@ sleepy
 sleepiness sleeve
 slender slice slide slight
 slightly slim
-
-
-
 slip
 slippery
 slipper slogan
@@ -4662,7 +4611,6 @@ sociable socialism
 socialist sociology
 sociologist sock
 socket soda sodium sofa 
-
 soft
 soften
 software
@@ -4721,9 +4669,6 @@ southwestern
 souvenir
 sovereign
 sovereignty
-
-
-
 sow
 space
 spacious
@@ -4762,7 +4707,6 @@ spokesman/spokeswoman
 spokesperson sponge
 spongy sponsor
 sponsorship 
-
 spontaneous
 spontaneity spoon
 spoonful sport
@@ -4778,7 +4722,6 @@ staircase stake stale stalk stall stammer stamp stamp stance stand standard
 standardize/-ise standardization/-sation standby
 standpoint staplel staple2
 stapler 
-
 star
 starry
 stare
@@ -4837,9 +4780,6 @@ stipulation
 stir
 stitch
 stock
-
-
-
 stocking
 stomach stone
 stony stool
@@ -4861,7 +4801,6 @@ striking string
 strip stripe strive stroke' stroke2 stroll strong
 strength
 strengthen 
-
 structure
 structural struggle
 stubborn student studio study stuff
@@ -4899,7 +4838,6 @@ sufficient sugar suggest
 suggestion
 suggestive suicide
 suicidal 
-
 suitl
 suitable suit2
 suitcase suite
@@ -4931,7 +4869,6 @@ surgical
 surgeon surname
 surpass surplus surprise surrender surround
 surroundings 
-
 surveillance survey survive
 survival
 survivor susceptible
@@ -4958,9 +4895,6 @@ systematic
 systematically table
 tablet taboo tack tackle tact
 tactful tactic
-
-
-
 tag
 tail
 tailor
@@ -5013,9 +4947,6 @@ tell
 telling
 teller
 temper
-
-
-
 temperament
 temperature
 temple
@@ -5070,9 +5001,6 @@ theater/-tre
 theatrical
 theft
 their
-
-
-
 theirs
 them theme themselves then
 theory
@@ -5094,7 +5022,6 @@ threshold thrift
 thrifty thrill
 thriller thrive
 throat throne through 
-
 throughout
 throw
 thrust
@@ -5151,9 +5078,6 @@ tomorrow
 ton
 tonnage
 tone
-
-
-
 tongue
 tonight
 too
@@ -5210,9 +5134,6 @@ transcend
 transcript
 transfer
 transference
-
-
-
 transform
 transformation
 transient
@@ -5271,9 +5192,6 @@ triumph
 triumphant
 trivial
 trolley
-
-
-
 troop
 trophy
 tropic
@@ -5330,9 +5248,6 @@ ugly
 ugliness
 ultimate
 ultimately
-
-
-
 ultra
 umbrella
 unanimous
@@ -5384,9 +5299,6 @@ up
 update
 upgrade
 uphold
-
-
-
 upload
 upon upper upright uprising upset upstairs up-to-date upward
 upwards uranium
@@ -5423,9 +5335,6 @@ variable
 variant vast
 vegetable
 vegetarian vegetation
-
-
-
 vehicle
 veil
 vein
@@ -5480,9 +5389,6 @@ violin
 violinist
 virgin
 virginity
-
-
-
 virtual
 virtually virtue
 virtuous virus
@@ -5509,7 +5415,6 @@ waiter/waitress waive
 waiver wake
 waken walk
 wall wallet wander want war ward 
-
 wardrobe
 ware
 warehouse
@@ -5565,9 +5470,6 @@ weigh
 weight
 weird
 welcome
-
-
-
 welfare
 welll
 well2
@@ -5622,9 +5524,6 @@ wield
 wife
 wild
 wilderness
-
-
-
 wildlife
 will
 willing
@@ -5682,9 +5581,6 @@ worried
 worse
 worship
 worst
-
-
-
 worth
 worthless
 worthwhile
@@ -5742,9 +5638,4 @@ zone
 Z00
 zoology
 zoological
-
-
-
 zoom
-
-
