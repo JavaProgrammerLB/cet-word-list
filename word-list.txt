@@ -66,9 +66,6 @@ accuse
 accusation
 accustom
 accustomed
-
-
-
 ace
 ache achieve
 achievement acid
@@ -121,8 +118,7 @@ advertising advice
 advise
 advisor/-er
 advisory
-advisable 
-
+advisable
 advocate
 advocacy aerial
 aesthetic
@@ -157,7 +153,6 @@ air-conditioning
 air-conditioner aircraft
 airline
 airplane/aeroplane 
-
 airport
 aisle akin alarm album alcohol
 alcoholic ale
@@ -185,7 +180,6 @@ alteration alternate
 alternation
 alternately alternative
 although altitude altogether 
-
 alumin(i)um always am amass amateur amaze
 amazing
 amazement ambassador
@@ -219,9 +213,6 @@ announcement annoy
 annoyance annual
 anonymous
 anonymity another
-
-
-
 answer
 ant
 antagonism
@@ -260,9 +251,6 @@ appropriation approve
 approval approximate
 approximately
 approximation April
-
-
-
 apron
 apt
 aptly aptitude
@@ -294,7 +282,6 @@ articulation artifact
 artificial artillery as ascend
 ascendance ascertain
 ascribe ash ashamed ashore 
-
 aside
 ask
 asleep
@@ -365,9 +352,6 @@ attorney
 attract
 attraction
 attractive
-
-
-
 attribute
 attributable
 attributive auction
@@ -400,7 +384,6 @@ awareness away
 awe awesome awful awkward ax(e) axis baby baby boom
 baby boomer bachelor
 back 
-
 background
 backup
 backward
@@ -449,9 +432,6 @@ barely
 bargain
 barge
 bark
-
-
-
 barn
 barometer
 barracks
@@ -498,9 +478,6 @@ become
 bed
 bedding
 bee
-
-
-
 beef
 beer beetle before beforehand beg
 beggar begin
@@ -523,7 +500,6 @@ between beverage beware bewilder
 bewilderment beyond
 bias Bible
 Biblical/biblical 
-
 bibliography
 bicycle/bike
 bid
@@ -574,9 +550,6 @@ blind
 blink
 bloc
 block
-
-
-
 blog
 blond(e)
 blood
@@ -627,9 +600,6 @@ both
 bother
 bottle
 bottom
-
-
-
 bounce
 bound'
 bound2
@@ -675,9 +645,6 @@ bribe
 bribery
 brick
 bride
-
-
-
 bridegroom
 bridge
 brief
@@ -731,9 +698,6 @@ bulb
 bulk
 bulky
 bull
-
-
-
 bullet
 bulletin
 bully
@@ -785,9 +749,6 @@ calculate
 calculation
 calculator
 calculating
-
-
-
 calendar
 calf
 call
@@ -837,9 +798,6 @@ cardinal
 care
 careful
 careless
-
-
-
 career
 cargo carpenter carpet carriage carrier carrot carry cart carton cartoon
 cartoonist carve
@@ -852,7 +810,6 @@ cautious cave
 cavity cease ceiling celebrate
 celebration celebrity
 cell cellar cell-phone Celsius/-cius 
-
 cement
 cemetery censor
 censorship census
@@ -882,7 +839,6 @@ charity
 charitable charm
 charming chart
 charter chase chat cheap cheat check' 
-
 check²/cheque cheek
 cheer
 cheerful cheese
@@ -904,7 +860,6 @@ circular circuit
 circulate
 circulation circumstance
 circus 
-
 cite
 citation citizen
 citizenship city
@@ -927,7 +882,6 @@ climatic climax
 climb cling clinic
 clinical clip
 cloak 
-
 clock
 clockwise
 clog
@@ -982,9 +936,6 @@ collar
 colleague
 collect
 collection
-
-
-
 collective
 college collide
 collision colon
@@ -1027,7 +978,6 @@ comparable compartment
 compass compassion
 compassionate compatible
 compatibility 
-
 compel
 compelling compensate
 compensation
@@ -1076,7 +1026,6 @@ condemnation condense
 condensation condition
 conditional
 conditioner 
-
 condolence conducive conduct
 conductor confederation
 confederate confer
@@ -1117,7 +1066,6 @@ consolation consolidate
 consolidation conspicuous
 conspire
 conspiracy 
-
 constant
 constituent
 constituency
@@ -1201,9 +1149,6 @@ convey
 conveyance
 convict
 conviction
-
-
-
 convince
 convincing convoy
 cook
@@ -1234,7 +1179,6 @@ costly costume
 cottage cotton couch cough could council
 council(1)or counsel
 counsel(1)or 
-
 count
 countdown counter counteract
 counteraction counterfeit
@@ -1255,7 +1199,6 @@ creative
 creator creature
 credential credible
 credibility 
-
 credit
 creditable creep
 crew cricket crime
@@ -1280,7 +1223,6 @@ cultivation culture
 cultural cumulative
 cunning cup cupboard curb cure
 curable 
-
 curfew
 curious
 curiosity
@@ -1337,9 +1279,6 @@ daughter
 dawn
 day
 daily
-
-
-
 daylight
 dazzle
 dead
@@ -1406,9 +1345,6 @@ defense/-ce
 defensive
 defendant
 defer
-
-
-
 deficient
 deficiency
 deficit
@@ -1484,9 +1420,6 @@ depress
 depression
 deprive
 deprivation
-
-
-
 depth
 deputy
 derail
@@ -1565,9 +1498,6 @@ devote
 devotion
 devour
 dew
-
-
-
 diabetes
 diagnose
 diagnosis diagram
@@ -1606,7 +1536,6 @@ disabled
 disability disagree
 disagreement disappear
 disappearance 
-
 disappoint
 disappointment
 disappointing
@@ -1669,9 +1598,6 @@ disruptive
 disruption
 dissent
 dissertation
-
-
-
 dissident dissolve distance
 distant distil(1)
 distinct
@@ -1704,7 +1630,6 @@ donation
 donor donkey
 doom door
 dormitory/dorm 
-
 dose
 dosage
 dot
@@ -1762,9 +1687,6 @@ dry
 dryer
 dual
 dub
-
-
-
 dubious
 duck
 due
@@ -1821,9 +1743,6 @@ economical
 ecosystem
 edge
 edible
-
-
-
 edit
 editor
 edition editorial
@@ -1864,7 +1783,6 @@ elsewhere email emancipate
 emancipation embargo
 embark embarrass
 embarrassment 
-
 embassy
 embed embody
 embodiment embrace
@@ -1912,7 +1830,6 @@ enlighten
 enlightenment
 enlightening enlist
 enormous 
-
 enough
 enquire
 enquiry enrich
@@ -1956,9 +1873,6 @@ erupt
 eruption escalate
 escalation
 escalator escape
-
-
-
 escort
 especially essay
 essayist essence
@@ -1996,9 +1910,6 @@ exemplify exceed
 exceedingly excel
 excellent
 excellence except
-
-
-
 exception
 exceptional
 excerpt
@@ -2078,9 +1989,6 @@ expression
 expressive
 expressway
 exquisite
-
-
-
 extend
 extension
 extensive
@@ -2112,7 +2020,6 @@ famous familiar
 familiarity
 familiarize/-ise family
 famine fan 
-
 fancy
 fantasy
 fantastic far
@@ -2146,7 +2053,6 @@ ferry fertile
 fertility
 fertilizer/-iser festival
 fetch 
-
 fever
 feverish few
 fiber/-bre fiction
@@ -2170,7 +2076,6 @@ fixed
 fixture
 fixation flag
 flame flank flap flare 
-
 flash
 flat'
 flat2
@@ -2223,9 +2128,6 @@ fool
 foolish
 foot
 football
-
-
-
 footprint
 for
 forbid
@@ -2283,9 +2185,6 @@ foundation
 fountain
 four
 fourteen
-
-
-
 fox
 fraction fracture fragile
 fragility fragment
@@ -2339,7 +2238,6 @@ generalize/-ise generate
 generator generation
 generous
 generosity 
-
 genius
 genre gentle gentleman genuine geography
 geographic
@@ -2362,9 +2260,6 @@ gloomy glory
 glorious glossary
 glove glow glue go goal goat god gold
 golden golf
-
-
-
 good
 goodbye goodness goods goose gorge gorgeous gospel gossip govern
 government
@@ -2398,7 +2293,6 @@ greeting grid
 grief
 grieve
 grievous 
-
 grill
 grim grin grind grip groan grocer
 grocery groove
@@ -2421,7 +2315,6 @@ hairy half
 halfway hall halt ham
 hamburger/burger hammer
 hamper 
-
 hand
 handful
 handbook
@@ -2480,9 +2373,6 @@ heading
 headline
 headmaster
 headmistress
-
-
-
 headquarters
 heal
 health
@@ -2544,9 +2434,6 @@ hide
 hiding
 hierarchy
 hierarchical
-
-
-
 high
 highly highlight
 high-tech highway hijack hike hill
@@ -2573,7 +2460,6 @@ horizontal horn
 horror
 horrible
 horrify 
-
 horse
 horsepower
 hose
@@ -2635,9 +2521,6 @@ hurt
 hurtful
 husband
 hut
-
-
-
 hybrid
 hydrogen hygiene
 hygienic hyphen
@@ -2683,9 +2566,6 @@ immigrant imminent
 immune
 immunity
 immunize/-ise impact
-
-
-
 impair
 impart
 impatient
@@ -2760,9 +2640,6 @@ indict
 indictment
 indifferent
 indifference
-
-
-
 indigenous
 indignant
 indignation indispensable
@@ -2811,7 +2688,6 @@ input
 inquire/enquire
 inquiry/enquiry
 inquisitive 
-
 insane
 insanity insect
 insert
@@ -2858,9 +2734,6 @@ interested interfere
 interference interim
 interior intermediate
 intermediary intermittent
-
-
-
 internal
 international Internet/internet interpret
 interpretation
@@ -2909,7 +2782,6 @@ irritating
 irritable island
 isle isolate
 isolation 
-
 issue
 it item its itself ivory jack jacket jail/gaol jam' jam2 January jar' jar2 jargon jaw jazz jealous
 jealousy jeans
@@ -2926,9 +2798,6 @@ joyful judge
 judg(e)ment judicial
 judiciary juice
 juicy July
-
-
-
 jump
 junction June jungle junior junk
 jurisdiction jury
@@ -2941,7 +2810,6 @@ kind
 kindness kindergarten
 king kingdom kiss kit kitchen kite knee kneel knife knight knit knob knock knot
 knotty 
-
 know
 knowledge
 knowledgeable knowhow
@@ -2959,7 +2827,6 @@ laughter launch
 laundry lavatory lavish law
 lawful lawn
 lawsuit lawyer lay 
-
 layer
 layman layoff layout lazy
 laziness lead'
@@ -2988,9 +2855,6 @@ lesbian less lesson lest let letter level lever
 leverage levy
 liable
 liability liberal
-
-
-
 liberate
 liberation
 liberty
@@ -3051,9 +2915,6 @@ litter
 little
 live'
 living
-
-
-
 live2
 livelihood
 lively
@@ -3114,9 +2975,6 @@ low
 lower
 loyal
 loyalty
-
-
-
 lubricate
 lubrication
 luck
@@ -3179,9 +3037,6 @@ manager
 managerial
 mandate
 mandatory
-
-
-
 maneuver/manoeuvre manifest
 manifestation manipulate
 manipulation
@@ -3211,7 +3066,6 @@ maternity math(ematics)/maths
 mathematical matter
 mature
 maturity 
-
 maximum
 maximize/-ise
 maximal May
@@ -3243,7 +3097,6 @@ mend mental
 mentality mention
 mentor menu
 merchandise 
-
 merchant
 mercury mercy
 merciful mere
@@ -3278,7 +3131,6 @@ millionaire mind
 mindset mine' mine2
 mineral
 mining 
-
 mine³
 mingle miniature minimum
 minimal
@@ -3314,7 +3166,6 @@ molecular mom(my)
 moment
 momentary
 momentarily 
-
 momentum
 momentous monarchy
 monarch Monday
@@ -3347,9 +3198,6 @@ mouthful move
 movement movie
 mow much mud
 muddy mug
-
-
-
 mule
 multilateral
 multiple
@@ -3418,9 +3266,6 @@ necessarily
 necessity
 necessitate
 neck
-
-
-
 necklace
 need
 needy needle
@@ -3451,9 +3296,6 @@ noisy nominal
 nominate
 nomination
 nominee none
-
-
-
 nonetheless
 nonsense noodle noon nor norm normal
 normally
@@ -3480,9 +3322,6 @@ nucleus nude
 nudity nuisance
 numb number numerical numerous nurse nursery nurture nut nutrition
 nutrient oak
-
-
-
 oar
 oath obese
 obesity obey
@@ -3527,9 +3366,6 @@ often/oftentimes oil
 oily okay
 old
 old-fashioned olive
-
-
-
 Olympic
 Olympics
 Olympiad omit
@@ -3563,7 +3399,6 @@ organization/-sation
 organizational/-sational orient'
 orientation orient2
 oriental 
-
 origin
 original
 originality
@@ -3615,9 +3450,6 @@ overflow
 overhaul
 overhead
 overhear
-
-
-
 overlap
 overlook
 overnight
@@ -3669,9 +3501,6 @@ panic
 panorama
 panoramic
 pant
-
-
-
 pants
 paper paperback parachute parade paradigm paradise paradox
 paradoxical paragraph
